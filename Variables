@@ -341,5 +341,5 @@ local function CreateWindow(Version)
 end
 
 return Player, Rayfield, Click, comma, Notify, CreateWindow, CurrentVersion
-local Player, Rayfield, Click, comma, Notify, CreateWindow, CurrnetVersion = loadstring(game:HttpGet("https://raw.githubusercontent.com/alyssagithub/Scripts/main/Inferno%20X%20Scripts/Variables.lua"))()
+local Player, Rayfield, Click, comma, Notify, CreateWindow, CurrnetVersion = loadstring(game:HttpGet("https://raw.githubusercontent.com/Galaxy-Potato/New-Scripts/main/Variables"))()
 -- local Player, Rayfield, Click, comma, Notify, CreateWindow, CurrnetVersion = loadstring(game:HttpGet("https://raw.githubusercontent.com/alyssagithub/Scripts/main/Inferno%20X%20Scripts/Variables.lua"))()
